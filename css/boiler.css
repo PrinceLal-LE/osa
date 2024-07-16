@@ -1,0 +1,16 @@
+.logo{
+    background-color:transparent;
+    
+}
+
+.logo img{
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.logo:hover{
+    background-color:transparent !important;
+    scale: 1.1;
+}
+
+ 
